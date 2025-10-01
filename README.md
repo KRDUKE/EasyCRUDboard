@@ -1,6 +1,6 @@
 # EasyCRUDboard
 
-application.properties 설정
+##application.properties 설정
 
 spring.datasource.driverClassName=org.mariadb.jdbc.Driver
 
@@ -11,7 +11,7 @@ spring.datasource.username=스키마계정
 spring.datasource.password=비밀번호
 
 
-테스트 데이터 프로시저 생성
+## 테스트 데이터 프로시저 생성
 
 DELIMITER $$
 
