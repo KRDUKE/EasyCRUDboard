@@ -1,6 +1,6 @@
 # EasyCRUDboard
 
-##application.properties 설정
+## application.properties 설정
 
 spring.datasource.driverClassName=org.mariadb.jdbc.Driver
 
